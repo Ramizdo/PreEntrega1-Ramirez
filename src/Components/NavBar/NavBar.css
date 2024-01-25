@@ -1,0 +1,13 @@
+.estilo-menu {
+    width: 100%;
+    position: fixed;
+}
+
+.color-menu {
+    color: #F62776;
+    font-size: 1.3rem;
+}
+
+.color-menu:hover {
+    color: #000000;
+}
